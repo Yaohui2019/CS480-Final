@@ -14,3 +14,5 @@ https://www.kaggle.com/code/hdjojo/modified-planttraits2024-eda-training
 -Run "Report_model.ipynb"    
 
 :( Such a rigurous approach but just to see it to overfit    
+
+Please make sure the addresses for the files are correct for the embeddings
